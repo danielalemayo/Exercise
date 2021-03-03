@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h2{
+    margin: 10px;
+    position: static;
+}
+
+.square {
+    height: 180px;
+    width: 180px;
+    border-color: black;
+    border-width: 3px;
+    background-color: red;
+}
+
+.rectangle {
+    height: 150px;
+    width: 230px;
+    border-color: black;
+    border-width: 3px;
+    background-color: green;
+}
+
+.triangle {
+    width: 0;
+    height: 0px;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 150px solid yellow;
+}
+
+.circle {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: blue;
+}
