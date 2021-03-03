@@ -1,2 +1,2 @@
-# Exercise-
+# Exercise
 Exercise for require skills
